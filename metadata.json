@@ -1,0 +1,7 @@
+{
+  "name": "GeoCheckIn",
+  "description": "A location-based factory attendance system with AI-powered daily motivation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
